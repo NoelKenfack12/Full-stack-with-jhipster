@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.afhunt.onlinestore",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "onlinestore",
+    "packageName": "com.afhunt.onlinestore",
+    "packageFolder": "com/afhunt/onlinestore",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": true,
+    "jwtSecretKey": "NjMzMzExODZjZmVlYTQ2YThjMjcwYmVhOWVjNjNhMTc4YjhhMzFmMDgxZGU3MDE3NzFiZTBkMjQzYzhhMjk4ODI3YWFlZDlmYzAxZWIxYzdkMjM1MjU3MDZmYzAwOTY3ZTlhNWQyZDZiYzRlYTczNGYyZGMyZjZlZDJhNjY5OWQ=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1613824809191,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": [],
+    "reactive": true
+  }
+}
